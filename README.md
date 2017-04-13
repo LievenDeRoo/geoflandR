@@ -1,2 +1,3 @@
 # geoflandR
-A R programmed geocoder for the Brussels region and Flemisch region
+A R programmed geocoder for the Brussels region and Flemisch region.
+This code written in R will help users to make use of the highly accurate geocode API for Brussels and Flanders build by the Flemisch government. The API is free to use with some minor restrictions like returned objects. More information can you find on https://overheid.vlaanderen.be/CRAB-Geolocation. This project is something I really wanted to do for a long time. Currently I have only the bare code and I will continue to work on it and make improvements. Later on I will try to publish it as a public R package. The ultimate goals is to combine all (EU) government driven geocoders into one highly accurate R package that returns location coordinates or nearby POI's based on adresses.
